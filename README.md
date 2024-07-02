@@ -5,3 +5,4 @@ The connection between the Arduino Uno to the NodeMCU is a Slave-to-Master conne
 The code is divided into three sections.
 The Transmission from NodeRed_to_Arduino_Uno.ino provides the code required to upload for transmission of data from NodeRed via wifi to the NodeMCU to read RFID tags and continue the process until the beverage order is completed
 The Nodemcu_master_microcontroller.ino file provide the codes for the connection and set up between the nodeMCU and Arduino Uno
+An additional PNG for the connections between the two micro controller is also available
