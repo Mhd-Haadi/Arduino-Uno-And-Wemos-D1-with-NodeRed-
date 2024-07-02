@@ -1,4 +1,5 @@
-The project simulate a beverage online order based on two bottle sizes Large and Small which is ordered via a GUI on NodeRed.
+This project dated 2017
+The project simulates a beverage online order based on two bottle sizes Large and Small which is ordered via a GUI on NodeRed.
 The project relates to the use of Arduino Uno and WEMOST with a wifi chip ESP8266 combines with RFID readers and servo motors.
 The data transmission is done via NodeRed through a GUI
 The connection between the Arduino Uno to the NodeMCU is a Slave-to-Master connection respectively.
